@@ -1,37 +1,22 @@
-# Davit Martirosyan's GitHub
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my GitHub profile! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davitmartirosyan&label=Profile%20views&color=0e75b6&style=flat" alt="davitmartirosyan" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davitmartirosyan" alt="davitmartirosyan" /></a> </p>
 
-- **Name:** Davit Martirosyan
-- **GitHub Username:** [dmartiro](https://github.com/dmartiro)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/davitmartirosyan/)
-- **42 Coding School:** [42 School Profile](https://github.com/davitmartirosyan?tab=repositories&q=42&type=&language=)
+- 🔭 I’m currently working on **webserv**
 
-I'm a passionate learner and developer currently studying at 42, a renowned coding school. My primary focus is on mastering C and C++ programming languages. This GitHub repository serves as a platform to showcase my journey in software development and programming.
+- 🌱 I’m currently learning **C++**
 
-## Repositories
+- 👨‍💻 All of my projects are available at [https://github.com/davitmartirosyan](https://github.com/davitmartirosyan)
 
-Here are some of my featured repositories:
+- 💬 Ask me about **C/C++**
 
-- [Project Name 1](https://github.com/dmartiro/project1) - A brief description of this project.
-- [Project Name 2](https://github.com/dmartiro/project2) - A brief description of this project.
-- [Project Name 3](https://github.com/dmartiro/project3) - A brief description of this project.
+- 📫 How to reach me **phpencoding@gmail.com**
 
-You'll find a collection of projects related to C and C++ programming, coding challenges, and more. Feel free to explore, learn, and collaborate!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 42 Projects
-
-As a student at 42, I've been working on various projects. You can find my 42 projects in the [42 Repositories](https://github.com/davitmartirosyan?tab=repositories&q=42&type=&language=) section.
-
-## Contact Me
-
-You can reach out to me through the following channels:
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davitmartirosyan/)
-
-I'm always open to connecting with fellow developers, discussing new opportunities, or collaborating on exciting projects. Don't hesitate to get in touch!
-
-Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
